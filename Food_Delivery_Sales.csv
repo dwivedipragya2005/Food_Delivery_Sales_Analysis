@@ -1,0 +1,13 @@
+﻿Order_ID,Order_Date,Customer,City,Restaurant_Type,Order_Status,Quantity,Order_Value,Payment_Mode
+1001,01-09-2026,Rahul,Delhi,North Indian,Delivered,2,450,UPI
+1002,01-09-2026,Priya,Agra,Chinese,Delivered,3,620,Card
+1003,02-09-2026,Aman,Jaipur,Fast Food,Cancelled,1,250,UPI
+1004,02-09-2026,Neha,Delhi,South Indian,Delivered,2,380,Cash
+1005,03-09-2026,Rohit,Lucknow,North Indian,Delivered,4,850,UPI
+1006,03-09-2026,Simran,Agra,Fast Food,Pending,2,340,Card
+1007,04-09-2026,Karan,Jaipur,Chinese,Delivered,3,720,UPI
+1008,04-09-2026,Anjali,Delhi,Fast Food,Delivered,1,210,Cash
+1009,05-09-2026,Vivek,Lucknow,South Indian,Cancelled,2,400,UPI
+1010,05-09-2026,Pooja,Agra,North Indian,Delivered,3,690,Card
+1011,06-09-2026,Arjun,Delhi,Chinese,Delivered,2,560,UPI
+1012,06-09-2026,Riya,Jaipur,Fast Food,Delivered,4,780,Cash
